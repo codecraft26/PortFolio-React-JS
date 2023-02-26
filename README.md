@@ -4,7 +4,7 @@
 <p id="description">I created web app in React and fully responsive</p>
 <h2>Demo Link</h2>
 
-  https://react-portfolio-codecraft26.vercel.app/
+ https://port-folio-react-js.vercel.app/
   
 <h2>🧐 Features</h2>
 
